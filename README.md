@@ -75,3 +75,7 @@
    - Ensure that all elements are appropriately labeled, and the application is navigable using keyboard-only controls.
 
 By following these instructions and testing the application flow, you can ensure that the Vue.js application functions correctly and meets the specified requirements.
+
+login:
+username: user123
+password: user123
